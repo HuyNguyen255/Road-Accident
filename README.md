@@ -134,4 +134,19 @@ FROM table1
 
 ## Conclusion (Kết luận) 📝
 
+### **Tổng quan** 
+Thời gian thu thập số liệu từ đầu năm 2021 cho đến hết năm 2022.
+Tổng quan về tổng số lượng tai nạn trong năm giai đoạn trên đạt khoảng 307,973 nghìn vụ và tổng số người thương vong đạt 417,883 nghìn người. Nếu so trong năm 2022 với năm liền trước đó là năm 2021, có ghi nhận sự sụt giảm cả về số vụ tai nạn giao thông (-11.70%) và số người thương vong (-11.89%).
+Xét cụ thể từng trường hợp theo mức độ nghiêm trọng của vụ tai nạn thì gồm 3 loại. Loại 1 là thuộc loại tai nạn va chạm nhẹ với tổng số vụ đạt 263,280 và có tổng cộng 351,436 người thương vong. Tiếp đến là loại tai nạn nghiêm trọng với tổng 40,740 vụ và có 59,312 người thương vong, và cuối cùng là đặc biệt nghiêm trong với 3,953 vụ và có 7,135 người bị tương vong. Nhưng nếu so sánh năm 2022 với năm trước đó thì phần các vụ tai nạn và thương vong đều có sự sụt giảm đang kể. Cụ thể, Trường hợp va chạm nhẹ đạt 165,837 trường hợp (- 10.56%), trường hợp nghiêm trọng ghi nhận con số là 27,045 (-16.18%) và cuối cùng là trường hợp đặc biệt nghiêm trọng đạt 2,855 trường hợp (-33.29%).
+Xét theo khu vực, giữa khu vực thành thị và khu vực nông thôn thì dễ dàng nhìn thấy đa số các vụ tai nạn là xảy ra tại khu vực thành khi có khoảng gần 299 nghìn ca (chiếm 64.6%), trong khi đó số vụ tai nan tại khu vực nông thôn đạt hơn 109 nghìn ca (chiếm khoảng 35.54%).
+Xét về riêng lẻ các khu vực tại nước Anh thì thành phố Birmingham hiện đang là nơi xảy ra nhiều vụ tai nạn giao thông nhất, ghi nhận đạt 6,165 vụ, tiếp đó là thành phố Leeds ghi nhận có 4,410 vụ tai nạn, và cuối cùng trong top 3 là thành phố Machester với 3,132 vụ việc.
+Và xét theo khung thời gian các ngày trong tuần và thời gian trong ngày thì chúng ta thấy đối với thời gian các ngày trong tuần thì tổng quan ngày có vụ tai nạn xảy ra nhiều nhất là vào ngày thứ Bảy. Về khung thời gian trong ngày thì thương tai nạn hay xảy ra nhiều và buổi trưa và chiều, tối.
+Theo dòng thời gian thì trong năm 2021 thì ta có thể thấy thông qua biểu đồ thì có sự gia tăng số vụ tai nạn cũng như thương vong từ cuối Quý 3 cho đến đầu Quý 4 (tháng Mười) và đó cũng là cột mốc đạt đỉnh của số vụ tai nạn (15,473 vụ) và số lượng người thương vong (20,975 người). Sau đó có sự sụt giảm trong 2 tháng cuối năm cho đến tháng 1/2022 (số vụ tai nạn giảm 59.3%, số lượng người thương vong giảm 55.2%). Và trong sau đó trong năm 2022 lại có sự gia tăng nhưng như đã biết sự gia tăng này nếu so sánh với năm trước đó thì là không đang kể. Số vụ tai nạn và thương vong tăng trong các tháng còn lại với lực tăng không quá mạnh, nhanh trước khi lại ghi nhận sụt giảm trong cuối năm vào tháng 12/2022.
+
+## [Một số hình ảnh trực quan hóa từ file Power BI](https://github.com/HuyNguyen255/Road-Accident/blob/d091aff509553a8e625e28d0153caf60820ddf1a/Road%20Accident%20Dashboard.pbix)
+
+![Main](Pictures/Dashboard.png)
+![Deeper](Pictures/Deeper.png)
+![Overview](Pictures/Overview.png)
+
 
